@@ -3,3 +3,5 @@
 ## Autor
 
 Dariusz Gorczyca
+
+nowa linia
